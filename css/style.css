@@ -1,0 +1,139 @@
+@import "reset.css";
+@import url('https://fonts.googleapis.com/css?family=Rubik&display=swap');
+
+body{
+font-family: 'Rubik', sans-serif;
+width: 1440px;
+margin: 0 auto;
+background: #ffffff;
+position: relative;
+}
+.leftimg{
+position: absolute;
+width: 185px;
+height: 1054px;
+margin-left: -11px;
+margin-top: -90px;
+}
+.rightimg{
+position: absolute;
+width: 282px;
+height: 23031px;
+left: 1230px;
+margin-top: -120px;
+}
+.thequestions{
+position: absolute;
+width: 743px;
+height: 1541px;
+left: -100px;
+margin-top: 900px;
+}
+.shpargalki>h1{
+width: 1180px;
+height: 160px;
+margin-left: 311px;
+margin-top: 69px;
+font-weight: bold;
+font-size: 144px;
+line-height: 171px;
+color: #F6CF00;
+}
+.twowite>h2{
+width: 391px;
+height: 160px;
+margin-left: 712px;
+margin-top: 250px;
+font-weight: bold;
+font-size: 96px;
+line-height: 114px;
+color: #015CCA;
+}
+.twowite>#inform p{
+  width: 488px;
+height: 250px;
+margin-left: 712px;
+margin-top: 0px;
+font-weight: 300;
+font-size: 36px;
+line-height: 50px;
+color: rgba(1, 92, 202, 0.56);
+}
+.twowite>#rabota h5{
+position: absolute;
+width: 549px;
+height: 68px;
+margin-left: 343px;
+margin-top: 1924px;
+font-size: 48px;
+line-height: 57px;
+color: #015CCA;
+}
+.twowite>#tvorch h5{
+position: absolute;
+left: 23.82%;
+right: 12.99%;
+margin-top: 8.96%;
+margin-bottom: 90.28%;
+font-size: 48px;
+line-height: 57px;
+color: #015CCA;
+}
+.twowite>#life h5{
+position: absolute;
+width: 431px;
+height: 27px;
+margin-left: 343px;
+margin-top: 2196px;
+font-size: 48px;
+line-height: 57px;
+color: #015CCA;
+}
+.twowite>#dveri h5{
+  
+}
+h1::after{
+content:"0+";
+content:"0+";
+font-size: 100%;
+position: relative;
+top:1em;
+right: 1em;
+}
+.firstimg{
+width: 645px;
+height: 390px;
+margin-left: 430px;
+margin-top: -190px;
+}
+h4{
+width: 344px;
+height: 242px;
+margin-left: 333px;
+margin-top: 50px;
+font-weight: 500;
+font-size: 36px;
+line-height: 50px;
+color: rgba(246, 207, 0, 0.72);
+margin-right: 0;
+}
+p{
+font-weight: 300;
+font-size: 36px;
+line-height: 50px;
+color: rgba(1, 92, 202, 0.56);
+}
+.aboutus{
+  font-size: 48px;
+  margin-left: 670px;
+  margin-top: 96px;
+}
+div ul{
+  display: flex;
+  margin-left: 230px;;
+}
+.leftname{
+  padding-bottom: 33px;
+  padding-right: 229px;
+  margin-top: 120px;
+}
