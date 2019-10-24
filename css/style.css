@@ -568,14 +568,55 @@ background: #FFDE2F;
 border-radius: 93px;
 }
 .background2{
-  position: absolute;
-  width: 683px;
-  height: 161px;
-  left: 410px;
-  top: 14876px;
-  background: #FFDE2F;
-  border-radius: 93px;
-
+position: absolute;
+width: 683px;
+height: 161px;
+left: 426px;
+top: 15080px;
+background: #FFDE2F;
+border-radius: 93px;
+}
+.background3{
+position: absolute;
+width: 683px;
+height: 195px;
+left: 425px;
+top: 15310px;
+background: #FFDE2F;
+border-radius: 93px;
+}
+.number1{
+position: absolute;
+width: 52px;
+height: 82px;
+left: 480px;
+top: 14865px;
+font-weight: 800;
+font-size: 72px;
+line-height: 55px;
+color: #015CCA;
+}
+.number2{
+position: absolute;
+width: 52px;
+height: 82px;
+left: 480px;
+top: 15070px;
+font-weight: 800;
+font-size: 72px;
+line-height: 55px;
+color: #015CCA;
+}
+.number3{
+position: absolute;
+width: 52px;
+height: 82px;
+left: 480px;
+top: 15310px;
+font-weight: 800;
+font-size: 72px;
+line-height: 55px;
+color: #015CCA;
 }
 #artforli{
 position: absolute;
@@ -611,6 +652,88 @@ line-height: 36px;
 color: #015CCA;
 }
 /* второй этап */
+.background01{
+position: absolute;
+width: 683px;
+height: 128px;
+left: 405px;
+top: 15900px;
+background: #FFDE2F;
+border-radius: 93px;
+}
+.background02{
+position: absolute;
+width: 683px;
+height: 222px;
+left: 400px;
+top: 16078px;
+background: #FFDE2F;
+border-radius: 93px;
+}
+.background03{
+position: absolute;
+width: 683px;
+height: 247px;
+left: 400px;
+top: 16345px;
+background: #FFDE2F;
+border-radius: 93px;
+}
+.background04{
+position: absolute;
+width: 683px;
+height: 247px;
+left: 400px;
+top: 16670px;
+background: #FFDE2F;
+border-radius: 93px;
+}
+.number01{
+position: absolute;
+width: 52px;
+height: 82px;
+left: 480px;
+top: 15890px;
+font-weight: 800;
+font-size: 72px;
+line-height: 55px;
+color: #015CCA;
+}
+.number02{
+position: absolute;
+width: 52px;
+height: 82px;
+left: 480px;
+top: 16067px;
+font-weight: 800;
+font-size: 72px;
+line-height: 55px;
+color: #015CCA;
+}
+.number03{
+position: absolute;
+width: 52px;
+height: 82px;
+left: 480px;
+top: 16345px;
+font-weight: 800;
+font-size: 72px;
+line-height: 55px;
+color: #015CCA;
+}
+.number04{
+position: absolute;
+width: 52px;
+height: 82px;
+left: 480px;
+top: 16660px;
+font-weight: 800;
+font-size: 72px;
+line-height: 55px;
+color: #015CCA;
+}
+
+
 #artfor-h3{
 position: absolute;
 width: 424px;
