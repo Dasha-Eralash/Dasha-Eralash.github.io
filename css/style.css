@@ -142,6 +142,7 @@ top: -100px;
 .firsth2{
 position: relative;
 width: 658px;
+font-weight: 800;
 height: 374px;
 left: 430px;
 top: -100px;
@@ -165,7 +166,7 @@ background-size: cover;
 } */
 .container-1{
 padding: 250px 0px 0px 300px;
-margin-top: -200px;
+margin-top: -150px;
 }
 .container-1 h5,h5 br{
 width: 272px;
@@ -183,10 +184,10 @@ position: absolute;
 width: 493px;
 height: 437px;
 left: 820px;
-top: 4308px;
+top: 4150px;
 }
 .container-2{
-padding: 250px 0px 0px 300px;
+padding: 350px 0px 0px 950px;
 margin-top: 0px;
 }
 .container-2 h5,h5 br{
@@ -204,11 +205,11 @@ color: #015CCA;
 position: absolute;
 width: 493px;
 height: 437px;
-left: 820px;
-top: 4850px;
+left: 180px;
+top: 4790px;
 }
 .container-3{
-padding: 250px 0px 0px 300px;
+padding: 355px 0px 0px 300px;
 margin-top: 0px;
 }
 .container-3 h5,h5 br{
@@ -227,10 +228,10 @@ position: absolute;
 width: 493px;
 height: 437px;
 left: 820px;
-top: 5393px;
+top: 5450px;
 }
 .container-4{
-padding: 250px 0px 0px 300px;
+padding: 350px 0px 0px 950px;
 margin-top: 0px;
 }
 .container-4 h5,h5 br{
@@ -248,8 +249,8 @@ color: #015CCA;
 position: absolute;
 width: 493px;
 height: 437px;
-left: 820px;
-top: 5935px;
+left: 180px;
+top: 6080px;
 }
 /* блок с фотками 2 */
 .firsth3{
@@ -257,15 +258,15 @@ position: relative;
 width: 658px;
 height: 374px;
 left: 420px;
-top: 500px;
+top: 235px;
 font-weight: 800;
 font-size: 48px;
 line-height: 80px;
 text-align: center;
-color: #FFDE2F;
+color: #015CCA;
 }
 .container-01{
-padding: 620px 0px 0px 900px;
+padding: 450px 0px 0px 950px;
 margin-top: 0px;
 }
 .container-01 h5,h5 br{
@@ -275,39 +276,39 @@ left: 1000px;
 font-weight: 300;
 font-size: 48px;
 line-height: 66px;
-padding-top: 30px;
-color: #FFDE2F;
+padding-top: 10px;
+color: #015CCA;
 }
 .container-01 img{
 position: absolute;
 width: 489px;
 height: 437px;
-left: 210px;
+left: 200px;
 top: 7200px;
 }
 .container-02{
-padding: 230px 0px 0px 900px;
+padding: 230px 0px 0px 320px;
 margin-top: 0px;
 }
 .container-02 h5,h5 br{
 width: 299px;
 height: 132px;
-left: 1000px;
+left: 200px;
 font-weight: 300;
 font-size: 48px;
 line-height: 66px;
-padding-top: 30px;
-color: #FFDE2F;
+padding-top: 10px;
+color: #015CCA;
 }
 .container-02 img{
 position: absolute;
 width: 489px;
 height: 437px;
-left: 210px;
+left: 820px;
 top: 7745px;
 }
 .container-03{
-padding: 200px 0px 0px 900px;
+padding: 320px 0px 0px 950px;
 margin-top: 0px;
 }
 .container-03 h5,h5 br{
@@ -317,35 +318,35 @@ left: 1000px;
 font-weight: 300;
 font-size: 48px;
 line-height: 66px;
-padding-top: 30px;
-color: #FFDE2F;
+padding-top: 10px;
+color: #015CCA;
 }
 .container-03 img{
 position: absolute;
 width: 489px;
 height: 437px;
-left: 210px;
+left: 200px;
 top: 8290px;
 }
 .container-04{
-padding: 210px 0px 0px 900px;
+padding: 260px 0px 0px 320px;
 margin-top: 0px;
 }
 .container-04 h5,h5 br{
 width: 299px;
 height: 132px;
-left: 1000px;
+left: 200px;
 font-weight: 300;
 font-size: 48px;
 line-height: 66px;
-padding-top: 30px;
-color: #FFDE2F;
+padding-top: 10px;
+color: #015CCA;
 }
 .container-04 img{
 position: absolute;
 width: 489px;
 height: 437px;
-left: 210px;
+left: 820px;
 top: 8840px;
 }
 /* блок с фотками 3 */
@@ -353,8 +354,8 @@ top: 8840px;
 position: relative;
 width: 658px;
 height: 374px;
-left: 420px;
-top: 440px;
+left: 390px;
+top: 210px;
 font-weight: 800;
 font-size: 54px;
 line-height: 80px;
@@ -362,7 +363,7 @@ text-align: center;
 color: #015CCA;
 }
 .container-10{
-padding: 530px 0px 0px 280px;
+padding: 430px 0px 0px 280px;
 margin-top: 0px;
 }
 .container-10 h5,h5 br{
@@ -373,18 +374,18 @@ top: 4000px;
 font-weight: 300;
 font-size: 48px;
 line-height: 66px;
-padding-top: 30px;
+padding-top: 10px;
 color: #015CCA;
 }
 .container-10 img{
 position: absolute;
 width: 489px;
 height: 437px;
-left: 800px;
-top: 10050px;
+left: 820px;
+top: 9940px;
 }
 .container-20{
-padding: 250px 0px 0px 280px;
+padding: 370px 0px 0px 950px;
 margin-top: 0px;
 }
 .container-20 h5,h5 br{
@@ -395,18 +396,18 @@ top: 4000px;
 font-weight: 300;
 font-size: 48px;
 line-height: 66px;
-padding-top: 30px;
+padding-top: 10px;
 color: #015CCA;
 }
 .container-20 img{
 position: absolute;
 width: 489px;
 height: 437px;
-left: 800px;
-top: 10580px;
+left: 180px;
+top: 10550px;
 }
 .container-30{
-padding: 250px 0px 0px 280px;
+padding: 345px 0px 0px 280px;
 margin-top: 0px;
 }
 .container-30 h5,h5 br{
@@ -417,18 +418,18 @@ top: 4000px;
 font-weight: 300;
 font-size: 48px;
 line-height: 66px;
-padding-top: 30px;
+padding-top: 10px;
 color: #015CCA;
 }
 .container-30 img{
 position: absolute;
 width: 489px;
 height: 437px;
-left: 800px;
+left: 820px;
 top: 11130px;
 }
 .container-40{
-padding: 250px 0px 0px 280px;
+padding: 300px 0px 0px 950px;
 margin-top: 0px;
 }
 .container-40 h5,h5 br{
@@ -439,30 +440,31 @@ top: 4000px;
 font-weight: 300;
 font-size: 48px;
 line-height: 66px;
-padding-top: 30px;
+padding-top: 10px;
 color: #015CCA;
 }
 .container-40 img{
 position: absolute;
 width: 489px;
 height: 437px;
-left: 800px;
+left: 180px;
 top: 11680px;
 }
+/* 4 карт */
 .firsth5{
 position: relative;
 width: 658px;
 height: 65px;
 left: 400px;
-top: 500px;
+top: 240px;
 font-weight: 800;
 font-size: 54px;
 line-height: 80px;
 text-align: center;
-color: #FFDE2F;
+color: #015CCA;
 }
 .container-010{
-padding: 870px 0px 0px 900px;
+padding: 690px 0px 0px 900px;
 margin-top: 0px;
 }
 .container-010 h5,h5 br{
@@ -472,18 +474,18 @@ left: 1000px;
 font-weight: 300;
 font-size: 48px;
 line-height: 66px;
-padding-top: 30px;
-color: #FFDE2F;
+padding-top: 10px;
+color: #015CCA;
 }
 .container-010 img{
 position: absolute;
 width: 489px;
 height: 437px;
 left: 200px;
-top: 12900px;
+top: 12700px;
 }
 .container-020{
-padding: 210px 0px 0px 900px;
+padding: 318px 0px 0px 350px;
 margin-top: 0px;
 }
 .container-020 h5,h5 br{
@@ -493,15 +495,15 @@ left: 1000px;
 font-weight: 300;
 font-size: 48px;
 line-height: 66px;
-padding-top: 30px;
-color: #FFDE2F;
+padding-top: 10px;
+color: #015CCA;
 }
 .container-020 img{
 position: absolute;
 width: 489px;
 height: 436px;
-left: 200px;
-top: 13435px;
+left: 820px;
+top: 13300px;
 }
 /* третий блок */
 #artcontest{
@@ -509,7 +511,7 @@ position: absolute;
 width: 1035px;
 height: 236px;
 left: -80px;
-top: 13970px;
+top: 13750px;
 font-weight: 800;
 font-size: 96px;
 line-height: 118px;
@@ -520,7 +522,7 @@ position: absolute;
 width: 785px;
 height: 180px;
 left: 330px;
-top: 14600px;
+top: 14360px;
 font-weight: 300;
 font-size: 48px;
 line-height: 55px;
@@ -531,14 +533,14 @@ position: absolute;
 width: 146px;
 height: 156px;
 left: 1000px;
-top: 14250px;
+top: 14050px;
 }
 h3{
 position: absolute;
 width: 424px;
 height: 55px;
-left: 335px;
-top: 14900px;
+left: 540px;
+top: 14650px;
 font-weight: bold;
 font-size: 64px;
 line-height: 55px;
@@ -548,20 +550,39 @@ color: #015CCA;
 position: absolute;
 width: 670px;
 height: 55px;
-left: 335px;
-top: 15000px;
+left: 550px;
+top: 14740px;
 font-weight: 800;
 font-size: 48px;
 line-height: 55px;
 color: #7AB2F4;
 }
 /* первый этап */
+.background1{
+position: absolute;
+width: 683px;
+height: 161px;
+left: 410px;
+top: 14876px;
+background: #FFDE2F;
+border-radius: 93px;
+}
+.background2{
+  position: absolute;
+  width: 683px;
+  height: 161px;
+  left: 410px;
+  top: 14876px;
+  background: #FFDE2F;
+  border-radius: 93px;
+
+}
 #artforli{
 position: absolute;
 width: 486px;
 height: 102px;
-left: 335px;
-top: 15156px;
+left: 540px;
+top: 14900px;
 font-weight: 300;
 font-size: 24px;
 line-height: 36px;
@@ -571,8 +592,8 @@ color: #015CCA;
 position: absolute;
 width: 531px;
 height: 133px;
-left: 335px;
-top: 15317px;
+left: 540px;
+top: 15100px;
 font-weight: 300;
 font-size: 24px;
 line-height: 36px;
@@ -582,8 +603,8 @@ color: #015CCA;
 position: absolute;
 width: 431px;
 height: 143px;
-left: 335px;
-top: 15520px;
+left: 540px;
+top: 15337px;
 font-weight: 300;
 font-size: 24px;
 line-height: 36px;
@@ -594,8 +615,8 @@ color: #015CCA;
 position: absolute;
 width: 424px;
 height: 55px;
-left: 335px;
-top: 15840px;
+left: 540px;
+top: 15670px;
 font-weight: bold;
 font-size: 64px;
 line-height: 55px;
@@ -605,8 +626,8 @@ color: #015CCA;
 position: absolute;
 width: 849px;
 height: 55px;
-left: 335px;
-top: 15947px;
+left: 440px;
+top: 15760px;
 font-weight: 800;
 font-size: 48px;
 line-height: 55px;
@@ -616,8 +637,8 @@ color: #7AB2F4;
 position: absolute;
 width: 438px;
 height: 65px;
-left: 335px;
-top: 16110px;
+left: 540px;
+top: 15925px;
 font-weight: 300;
 font-size: 24px;
 line-height: 36px;
@@ -627,8 +648,8 @@ color: #015CCA;
 position: absolute;
 width: 413px;
 height: 172px;
-left: 335px;
-top: 16230px;
+left: 540px;
+top: 16100px;
 font-weight: 300;
 font-size: 24px;
 line-height: 36px;
@@ -638,8 +659,8 @@ color: #015CCA;
 position: absolute;
 width: 431px;
 height: 207px;
-left: 335px;
-top: 16460px;
+left: 540px;
+top: 16379px;
 font-weight: 300;
 font-size: 24px;
 line-height: 36px;
@@ -649,8 +670,8 @@ color: #015CCA;
 position: absolute;
 width: 382px;
 height: 173px;
-left: 335px;
-top: 16730px;
+left: 540px;
+top: 16700px;
 font-weight: 300;
 font-size: 24px;
 line-height: 36px;
@@ -660,8 +681,8 @@ color: #015CCA;
 position: absolute;
 width: 778px;
 height: 141px;
-left: 370px;
-top: 17012px;
+left: 390px;
+top: 17060px;
 font-weight: 800;
 font-size: 36px;
 line-height: 47px;
@@ -671,8 +692,8 @@ color: #015CCA;
 position: absolute;
 width: 543px;
 height: 960px;
-left: -100px;
-top: 17128px;
+left: 0px;
+top: 16650px;
 }
 #openthefloor{
 position: absolute;
@@ -716,4 +737,51 @@ font-weight: 500;
 font-size: 36px;
 line-height: 50px;
 color: #015CCA;
+}
+#date{
+position: absolute;
+width: 225px;
+height: 41px;
+left: 313px;
+top: 17890px;
+font-weight: 500;
+font-size: 36px;
+line-height: 50px;
+color: #015CCA;
+}
+#program-1{
+position: absolute;
+width: 439px;
+height: 157px;
+left: 884px;
+top: 17890px;
+font-weight: 500;
+font-size: 36px;
+line-height: 50px;
+color: #015CCA;
+}
+#program-2{
+position: absolute;
+width: 439px;
+height: 51px;
+left: 884px;
+top: 18100px;
+font-weight: 500;
+font-size: 36px;
+line-height: 50px;
+color: #015CCA;
+}
+#aboutschool{
+position: absolute;
+width: 1113px;
+height: 228px;
+left: 0px;
+top: 18200px;
+font-weight: bold;
+font-size: 96px;
+line-height: 114px;
+color: #015CCA;
+}
+#firsth4-{
+
 }
