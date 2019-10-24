@@ -656,3 +656,64 @@ font-size: 24px;
 line-height: 36px;
 color: #015CCA;
 }
+#artforp-1{
+position: absolute;
+width: 778px;
+height: 141px;
+left: 370px;
+top: 17012px;
+font-weight: 800;
+font-size: 36px;
+line-height: 47px;
+color: #015CCA;
+}
+.neznika{
+position: absolute;
+width: 543px;
+height: 960px;
+left: -100px;
+top: 17128px;
+}
+#openthefloor{
+position: absolute;
+width: 1022px;
+height: 118px;
+left: -150px;
+top: 17200px;
+font-weight: 800;
+font-size: 96px;
+line-height: 118px;
+color: #015CCA;
+}
+#open-2019{
+position: absolute;
+left: 280px;
+right: 100px;
+top: 17720px;
+font-weight: bold;
+font-size: 64px;
+line-height: 55px;
+color: #7AB2F4;
+}
+#open-13{
+position: absolute;
+width: 172px;
+height: 64px;
+left: 703px;
+top: 17890px;
+font-weight: 500;
+font-size: 36px;
+line-height: 50px;
+color: #015CCA;
+}
+#open-15{
+position: absolute;
+width: 172px;
+height: 67px;
+left: 706px;
+top: 18100px;
+font-weight: 500;
+font-size: 36px;
+line-height: 50px;
+color: #015CCA;
+}
