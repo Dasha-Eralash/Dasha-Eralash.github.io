@@ -520,16 +520,139 @@ position: absolute;
 width: 785px;
 height: 180px;
 left: 330px;
-top: 14650px;
+top: 14600px;
 font-weight: 300;
 font-size: 48px;
 line-height: 55px;
 color: #015CCA;
 }
-#artfoimg{
+#artforimg{
 position: absolute;
 width: 146px;
 height: 156px;
 left: 1000px;
 top: 14250px;
+}
+h3{
+position: absolute;
+width: 424px;
+height: 55px;
+left: 335px;
+top: 14900px;
+font-weight: bold;
+font-size: 64px;
+line-height: 55px;
+color: #015CCA;
+}
+#artforh{
+position: absolute;
+width: 670px;
+height: 55px;
+left: 335px;
+top: 15000px;
+font-weight: 800;
+font-size: 48px;
+line-height: 55px;
+color: #7AB2F4;
+}
+/* первый этап */
+#artforli{
+position: absolute;
+width: 486px;
+height: 102px;
+left: 335px;
+top: 15156px;
+font-weight: 300;
+font-size: 24px;
+line-height: 36px;
+color: #015CCA;
+}
+#artforli-2{
+position: absolute;
+width: 531px;
+height: 133px;
+left: 335px;
+top: 15317px;
+font-weight: 300;
+font-size: 24px;
+line-height: 36px;
+color: #015CCA;
+}
+#artforli-3{
+position: absolute;
+width: 431px;
+height: 143px;
+left: 335px;
+top: 15520px;
+font-weight: 300;
+font-size: 24px;
+line-height: 36px;
+color: #015CCA;
+}
+/* второй этап */
+#artfor-h3{
+position: absolute;
+width: 424px;
+height: 55px;
+left: 335px;
+top: 15840px;
+font-weight: bold;
+font-size: 64px;
+line-height: 55px;
+color: #015CCA;
+}
+#artfor-h5{
+position: absolute;
+width: 849px;
+height: 55px;
+left: 335px;
+top: 15947px;
+font-weight: 800;
+font-size: 48px;
+line-height: 55px;
+color: #7AB2F4;
+}
+#artforli-1{
+position: absolute;
+width: 438px;
+height: 65px;
+left: 335px;
+top: 16110px;
+font-weight: 300;
+font-size: 24px;
+line-height: 36px;
+color: #015CCA;
+}
+#artforli-02{
+position: absolute;
+width: 413px;
+height: 172px;
+left: 335px;
+top: 16230px;
+font-weight: 300;
+font-size: 24px;
+line-height: 36px;
+color: #015CCA;
+}
+#artforli-03{
+position: absolute;
+width: 431px;
+height: 207px;
+left: 335px;
+top: 16460px;
+font-weight: 300;
+font-size: 24px;
+line-height: 36px;
+color: #015CCA;
+}
+#artforli-04{
+position: absolute;
+width: 382px;
+height: 173px;
+left: 335px;
+top: 16730px;
+font-weight: 300;
+font-size: 24px;
+line-height: 36px;
+color: #015CCA;
 }
