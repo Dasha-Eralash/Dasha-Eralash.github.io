@@ -16,12 +16,27 @@ height: 1054px;
 margin-left: -11px;
 margin-top: -100px;
 }
-.rightimg{
+
+.background00{
 position: absolute;
-width: 282px;
-height: 23031px;
-left: 1260px;
-margin-top: -120px;
+width: 300.04px;
+height: 15846px;
+left: 1192px;
+top: -100px;
+}
+.background001{
+position: absolute;
+width: 328px;
+height: 16788px;
+left:-53px;
+top: 1600px;
+}
+.background002{
+  position: absolute;
+  width: 258px;
+  height: 3239px;
+  left: -39px;
+  top: 17300px;
 }
 .thequestions{
 position: absolute;
@@ -151,19 +166,6 @@ line-height: 80px;
 text-align: center;
 color: #015CCA;
 }
-
-/* .background{
-position: absolute;
-width: 1441px;
-height: 2687px;
-left: -1px;
-top: 3800px;
-background: rgba(255, 222, 47, 0.86);
-background: url(../img/undertext.jpg);
-background-repeat: no-repeat;
-background-position: center top;
-background-size: cover;
-} */
 .container-1{
 padding: 250px 0px 0px 300px;
 margin-top: -150px;
@@ -833,7 +835,7 @@ color: #015CCA;
 position: absolute;
 left: 280px;
 right: 100px;
-top: 17720px;
+top: 17670px;
 font-weight: bold;
 font-size: 64px;
 line-height: 55px;
@@ -899,12 +901,195 @@ position: absolute;
 width: 1113px;
 height: 228px;
 left: 0px;
-top: 18200px;
+top: 18170px;
 font-weight: bold;
 font-size: 96px;
 line-height: 114px;
 color: #015CCA;
 }
 #firsth4-{
-
+position: absolute;
+width: 419px;
+height: 55px;
+left: 150px;
+top: 18727px;
+font-weight: 800;
+font-size: 48px;
+line-height: 55px;
+color: #7AB2F4;
+}
+.background10{
+position: absolute;
+width: 1075px;
+height: 260px;
+left: 186px;
+top: 19025px;
+background: #FFDE2F;
+border-radius: 93px;
+}
+.historyhse{
+padding: 318px 0px 0px 350px;
+margin-top: 0px;
+}
+.historyhse p{
+position: absolute;
+width: 365px;
+height: 104px;
+left: 276px;
+top: 19120px;
+font-weight: 300;
+font-size: 24px;
+line-height: 36px;
+color: #015CCA;
+}
+.historyhse img{
+position: absolute;
+width: 360px;
+height: 211px;
+left: 890px;
+top: 19000px;
+}
+.background20{
+position: absolute;
+width: 1054px;
+height: 491px;
+left: 207px;
+top: 19390px;
+background: #FFDE2F;
+border-radius: 93px;
+}
+.historyhse1{
+padding: 700px 0px 0px 700px;
+margin-top: 0px;
+}
+.historyhse1 img{
+position: absolute;
+width: 279px;
+height: 277px;
+left: 344px;
+top: 19500px;
+}
+.historyhse1 p{
+position: absolute;
+width: 365px;
+height: 195px;
+left: 861px;
+top: 19450px;
+font-weight: 300;
+font-size: 24px;
+line-height: 36px;
+color: #015CCA;
+}
+#history{
+position: absolute;
+width: 365px;
+height: 195px;
+left: 863px;
+top: 19650px;
+font-weight: 300;
+font-size: 24px;
+line-height: 36px;
+color: #015CCA;
+}
+.background30{
+position: absolute;
+width: 1075px;
+height: 299px;
+left: 207px;
+top: 19984px;
+background: #FFDE2F;
+border-radius: 93px;
+}
+.historyhse2{
+padding: 700px 0px 0px 700px;
+margin-top: 0px;
+}
+.historyhse2 p{
+position: absolute;
+width: 365px;
+height: 104px;
+left: 297px;
+top: 20085px;
+font-weight: 300;
+font-size: 24px;
+line-height: 36px;
+color: #015CCA;
+}
+.historyhse2 img{
+position: absolute;
+width: 234px;
+height: 196px;
+left: 921px;
+top: 20030px;
+}
+.background40{
+position: absolute;
+width: 1075px;
+height: 383px;
+left: 208px;
+top: 20390px;
+background: #FFDE2F;
+border-radius: 93px;
+}
+.historyhse3{
+padding: 700px 0px 0px 700px;
+margin-top: 0px;
+}
+.historyhse3 p{
+position: absolute;
+width: 365px;
+height: 244px;
+left: 864px;
+top: 20480px;
+font-weight: 300;
+font-size: 24px;
+line-height: 36px;
+color: #015CCA
+}
+.historyhse3 img{
+position: absolute;
+width: 353px;
+height: 286px;
+left: 282px;
+top: 20450px;
+}
+.background50{
+position: absolute;
+width: 1458px;
+height: 493px;
+left: -16px;
+top: 21150px;
+background: #FFDE2F;
+}
+#pencil{
+position: absolute;
+width: 239px;
+height: 345px;
+left: 552px;
+top: 20900px;
+}
+#vk{
+position: absolute;
+width: 619px;
+height: 95px;
+left: 207px;
+top: 21300px;
+}
+#inst{
+position: absolute;
+width: 490px;
+height: 94px;
+left: 208px;
+top: 21420px;
+}
+#group{
+position: absolute;
+width: 163px;
+height: 66px;
+left: 364px;
+top: 21550px;
+font-weight: 300;
+font-size: 36px;
+line-height: 66px;
+color: #015CCA;
 }
